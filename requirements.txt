@@ -1,0 +1,12 @@
+Flask
+Werkzeug
+tensorflow
+tensorflow-estimator
+numpy==1.18.5
+matplotlib
+Pillow
+datetime
+opencv-python
+Keras
+Keras-Preprocessing
+cassandra-driver
