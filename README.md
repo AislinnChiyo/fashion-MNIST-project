@@ -38,6 +38,7 @@ Then visit `http://0.0.0.0:5000/upload` to upload some fashion image.
 
 There are some sample image in /app/testImage:
 
+```
 app/
 testImage/
 ├── 0.jpg
@@ -70,6 +71,7 @@ testImage/
 ├── 27.jpg
 ├── 28.jpg
 └── 29.jpg
+```
 
 
 Then click upload buttom to upload fashion image to see the result.
